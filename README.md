@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Pragati Verma</h1> -->
+<h1 align="center">Hi 👋, I'm Himanshu Ranjan</h1> 
 <div align="center">
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" align="center"/>
 </div>
